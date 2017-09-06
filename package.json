@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "babel-preset-env": "^1.5.1",
+    "babelify": "^7.3.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "uglifyify": "^3.0.4",
+    "sass-lint": "^1.10.2"
+  }
+}

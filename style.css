@@ -1,0 +1,44 @@
+body {
+  box-sizing: border-box;
+  padding: 100px;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  height: 100vh;
+  width: 100vw;
+}
+.dropTarget {
+  position: relative;
+  border: 5px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.imgTarget {
+  position: absolute;
+  top: 0;
+  left:0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.imgTarget canvas {
+  width: 100%;
+}
+
+.upload {
+  visibility: hidden; 
+  width: 1px; 
+  height: 1px;
+}
+
+.controls {
+  font-size: 10px;
+}

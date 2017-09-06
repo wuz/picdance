@@ -1,0 +1,20 @@
+--2017-09-06 15:59:49--  http://gitignore.io/api/node
+Resolving gitignore.io... 104.28.1.76, 104.28.0.76, 2400:cb00:2048:1::681c:14c, ...
+Connecting to gitignore.io|104.28.1.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gitignore.io/api/node [following]
+--2017-09-06 15:59:49--  https://gitignore.io/api/node
+Connecting to gitignore.io|104.28.1.76|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.gitignore.io/api/node [following]
+--2017-09-06 15:59:49--  https://www.gitignore.io/api/node
+Resolving www.gitignore.io... 104.28.1.76, 104.28.0.76, 2400:cb00:2048:1::681c:14c, ...
+Connecting to www.gitignore.io|104.28.1.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 990 [text/plain]
+Saving to: ‘node’
+
+     0K                                                       100% 33.7M=0s
+
+2017-09-06 15:59:49 (33.7 MB/s) - ‘node’ saved [990/990]
+
